@@ -1,0 +1,5 @@
+hrs = float(input("Enter Hours:"))
+h = float(hrs * 10.5)
+a = float(10.5 * (1.5 * 5))
+g = float(h+a)
+print(g)
